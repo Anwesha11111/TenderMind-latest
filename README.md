@@ -52,10 +52,8 @@ TenderMind is an AI-powered co-pilot for government procurement, now optimized f
 - **Hardware**: Local AI processing is CPU/RAM intensive. Ensure your Docker Desktop has at least 8GB RAM allocated.
 - **Tesseract**: Scanned documents require Tesseract OCR. This is pre-installed in the Docker image.
 
-<<<<<<< HEAD
-## TEAM MEMBERS
-=======
-A virtual environment has been created for you. To activate it and ensure all dependencies are installed, open a terminal in the `backend/` folder:
+
+A virtual environment has been created . To activate it and ensure all dependencies are installed, open a terminal in the `backend/` folder:
 
 ```powershell
 cd c:\Coding\AI4BHARAT\backend
