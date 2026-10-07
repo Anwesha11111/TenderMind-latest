@@ -122,9 +122,4 @@ Go to `GET /api/tenders/{id}/scorecard` and execute it. You will see a fully ran
   `TESSERACT_CMD="C:\Program Files\Tesseract-OCR\tesseract.exe"`
   And modify `backend/ingestion/processor.py` to read it: `pytesseract.pytesseract.tesseract_cmd = os.getenv("TESSERACT_CMD")`
 
-## TEAM MEMBERS- 
->>>>>>> 4e831edd2a8d727fe267b4289bffc197d5ecf0a6
-Shashank
-Anwesha Mohapatra
-Avishkar More
-Aayushi Priya
+
