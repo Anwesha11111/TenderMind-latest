@@ -1,0 +1,31 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+pydantic
+celery[redis]
+flower
+redis
+python-multipart
+python-dotenv
+<<<<<<< HEAD
+scikit-learn
+langchain
+=======
+langchain
+langchain-ollama
+>>>>>>> 4e831edd2a8d727fe267b4289bffc197d5ecf0a6
+pymupdf
+python-docx
+pytesseract
+Pillow
+langdetect
+lingua-language-detector
+sentence-transformers
+torch
+transformers
+pandas
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
